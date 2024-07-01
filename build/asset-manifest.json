@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03bfc757.css",
+    "main.js": "/static/js/main.87a1614e.js",
+    "static/media/USAID Supply Chain analysis.xlsx": "/static/media/USAID Supply Chain analysis.d7c72d251fc83aad8de3.xlsx",
+    "static/media/Mooring system analysis.pdf": "/static/media/Mooring system analysis.b77d066c1c6b758d54ab.pdf",
+    "static/media/bg.jpg": "/static/media/bg.4a9d58479315bd6ac8fb.jpg",
+    "static/media/2022-09-20_01h28_31.png": "/static/media/2022-09-20_01h28_31.563a1b3333c04813f481.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/pic.jpg": "/static/media/pic.34ae1479ed6e8bd9b36e.jpg",
+    "static/media/Quicksand-Light.woff": "/static/media/Quicksand-Light.d98669722a6e6691f69c.woff",
+    "static/media/2022-07-20_16h11_15.png": "/static/media/2022-07-20_16h11_15.eb6039f7465cbfa3c25a.png",
+    "static/media/Quicksand-Light.woff2": "/static/media/Quicksand-Light.5ee7032dc0e3019c5f0c.woff2",
+    "static/media/images (3).jpeg": "/static/media/images (3).fbe7fb161444326d8033.jpeg",
+    "index.html": "/index.html",
+    "main.03bfc757.css.map": "/static/css/main.03bfc757.css.map",
+    "main.87a1614e.js.map": "/static/js/main.87a1614e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03bfc757.css",
+    "static/js/main.87a1614e.js"
+  ]
+}
